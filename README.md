@@ -21,6 +21,7 @@ sitä mukaa, kun projektien kuvaukset ovat tehty.
 * [Laine Jari](Laine_Jari.md)
 * [Lehtonen Riku](Lehtonen_Riku.md)
 * [Leppälehto Eero](Leppälehto_Eero.md)
+* [Leveä-Aho Jani](Leveä-Aho_Jani.md)
 * [Lindström Victoria](Lindström_Victoria.md)
 * [Monena Roo](Monena_Roo.md)
 * [Paijo Joonatan](Paijo_Joonatan.md)
