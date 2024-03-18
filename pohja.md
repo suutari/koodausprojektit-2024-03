@@ -2,6 +2,8 @@
 
 Muutaman lauseen mitatinen projektin kuvaus.
 
+* Osoite: https://github.com/projektin-github-osoite
+
 ## Tekniikat
 
 * Ohjelmointikieli: Python, JavaScript, Go, C++, tms.

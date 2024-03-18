@@ -1,9 +1,11 @@
-# Kirjojen verkkokauppa
+# Vesimittarin lukemisohjelma
 
 Yksinkertainen verkkokauppa, josta voi ostaa kirjoja.
+
+* Osoite: https://github.com/suutari/meterelf
 
 ## Tekniikat
 
 * Ohjelmointikieli: Python
-* Taustajärjestelmä: Django
-* Käyttöliittymä: Bootstrap + CSS
+* Taustajärjestelmä: OpenCV
+* Käyttöliittymä: komentorivi
