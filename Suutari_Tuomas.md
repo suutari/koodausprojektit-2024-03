@@ -1,6 +1,6 @@
 # Taas joku projekti
 
-Tässä kerron projektista
+Tässä kerron projektista. Muutoksia....
 
 * Osoite: https://github.com/projektin-github-osoite
 
